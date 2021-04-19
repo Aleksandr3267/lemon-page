@@ -149,7 +149,7 @@ i.fa {
 	margin-top: 90px;
 }
 .get_it{
-	background: url(../images/Photo.jpg) no-repeat center top / cover;
+	background: url(../images/Photo.webp) no-repeat center top / cover;
 	width: 100%;
 	max-width: 1120px;
 	height: auto;
@@ -229,7 +229,7 @@ button .fi{
 	margin-top: 100px;
 }
 .bananas{
-	background: url(../images/Photo11.png) no-repeat center top / cover;
+	background: url(../images/Photo11.webp) no-repeat center top / cover;
 	transition: all 0.4s;
 	padding-top: 40px;
 	padding-bottom: 25px;
@@ -292,7 +292,7 @@ button .fi{
 }
 /*ошибка*/
 .problem{
-	background: url(../images/ipn1.png);
+	background: url(../images/ipn1.webp);
 	width: 520px;
 	height: 520px;
 	transition: all 0.4s;
@@ -506,7 +506,7 @@ button .fi{
 	font-weight: bold;
 }
 .popularNow{
-	background: url(../images/Photodfsf.png) no-repeat center top / cover;
+	background: url(../images/Photodfsf.webp) no-repeat center top / cover;
 	width:290px;
 	height:360px;
 	padding-top: 30px;
